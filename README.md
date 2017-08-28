@@ -16,4 +16,15 @@
 
 ## Sorting
 
+- [ ] [插入排序 insert sort]()
+- [ ] [选择排序 select sort]()
+- [ ] [希尔排序 shell sort]()
+- [ ] [冒泡排序 bubble sort]()
+- [ ] [归并排序 merge sort]()
+- [ ] [快速排序 quick sort]()
+- [ ] [堆排序 heap sort]()
+- [ ] [基数排序]()
+
+## Questions
+- [x] [算法题 1：Hankson趣味问题](/Questions/001/Hankson\'s\_Question.md)
 

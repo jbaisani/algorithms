@@ -31,6 +31,7 @@
 - [x] [算法题 2 :求淘宝每天销量最高的100个商品](/Questions/002/Taobao\_bestsell.md)
 - [x] [算法题 3 :数字三角形](/Questions/003/Digital\_triangle.md)
 - [x] [算法题 4 :求朋友关系中的朋友圈数量](/Questions/004/friend\_group.md)
+- [x] [算法题 5 :趣味红包问题](/Questions/005/red-envelope.md)
 
 # Number Theory
 
